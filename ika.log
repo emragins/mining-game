@@ -1,0 +1,16 @@
+ika 0.62 startup
+Built on Apr  2 2007
+--------------------------
+Initializing SDL
+Initializing Video
+Starting OpenGL video driver
+--Setting video mode
+--Initializing OpenGL
+--Disabling cursor
+--Generating doublesize buffer
+Initializing Input
+Initializing sound
+Initing Python
+Executing system.py
+---- shutdown ----
+
